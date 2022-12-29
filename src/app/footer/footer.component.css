@@ -1,0 +1,32 @@
+footer{
+    background: darkslategrey;
+    padding: 6px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+.contenedor-footer{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    border-bottom: 2px solid white;
+}
+.contenedor-foot{
+    text-align: center;
+}
+.contenedor-foot h4{
+    color: white;
+    border-bottom: 3px solid lightcoral;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+.contenedor-foot p{
+    color: white;
+}
+.titulo-final{
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0;
+    color: white;
+}
